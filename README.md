@@ -1,2 +1,3 @@
 # g-challenges
-Collection of small programming challenges.
+Collection of small programming challenges drawn from a galaxy far, far away...
+![challenges.png](challenges.png)
