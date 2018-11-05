@@ -1,4 +1,8 @@
+# rules for emacs
 *~
+
+# rules for c
+*.exe
 
 # rules for create-react-app
 
